@@ -1,3 +1,7 @@
+Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15
+October 1989, page XXX.
+	mamenchisaurus article.pdf
+
 Rich, Thomas H., and Patricia Vickers-Rich. 2020. Dinosaurs of
 Darkness (second edition). Indiana University Press, Bloomington,
 Indiana, USA. 310 pages.
