@@ -1,3 +1,7 @@
+Anonymous. 1989. Around the Galleries. Australian Jewish News, 3
+November 1989. https://trove.nla.gov.au/newspaper/article/261891472
+	Australian-Jewish-News--1989-11-03--page36.png
+
 Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15
 October 1989, page XXX.
 	mamenchisaurus article.pdf
