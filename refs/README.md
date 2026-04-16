@@ -1,3 +1,8 @@
+Anonymous. 1983. Skeletons of dinosaurs copied in Melbourne. The
+Canberra Times, 27 January 1983, page 16.
+https://trove.nla.gov.au/newspaper/article/116445974
+	Canberra-Times--1983-01-27--page16.png
+
 Anonymous. 1989. Around the Galleries. Australian Jewish News, 3
 November 1989. https://trove.nla.gov.au/newspaper/article/261891472
 	Australian-Jewish-News--1989-11-03--page36.png
