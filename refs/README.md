@@ -1,6 +1,6 @@
 Warren, J. W. Foreword. p. 5 in: XXX (eds.), Dinosaurs From China
 catalogue.
-	Anonymous-Undated--Dinosaurs-from-China-catalogue-forward.jpeg
+	Warren-Undated--Dinosaurs-from-China-catalogue-forword.jpeg
 
 Anonymous. 1983. Skeletons of dinosaurs copied in Melbourne. The
 Canberra Times, 27 January 1983, page 16.
