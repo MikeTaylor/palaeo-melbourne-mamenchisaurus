@@ -7,6 +7,10 @@ Canberra Times, 27 January 1983, page 16.
 https://trove.nla.gov.au/newspaper/article/116445974
 	Anonymous-1983-Canberra-Times--1983-01-27--page16.png
 
+Australian Museum Trust. 1983. Annual Report,
+1982/83. https://media.australian.museum/media/dd/Uploads/Documents/26916/AMS112_1982-1983_lowres_web.17a47fc.pdf
+	Australian-Museum-Trust-1983--annual-report-1982-83.pdf
+
 Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15
 October 1989, page XXX.
 	Boddington-1989-Sunday-Herald--1989-10-15.pdf
