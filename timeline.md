@@ -12,6 +12,7 @@
 * **1982 but when?** _Dinosaurs from China_ exhibition opens at the National Museum of Victoria, Melbourne, under the presidency of Professor J. W. Warren. It includes two Chinese dinosaurs plus some material from Australia (Warren, undated). [1]
 * **27 January 1983.** The mould of _Tsintaosaurus_ is complete but that of _Mamenchisaurus_ is only about 15% done (Anonymous 1983). One public gallery at the Melbourne museum has been closed and converted to a workshop.[2]
 * **6 February 1983.** The _Dinosaurs from China_ exhibition closes. The intention is to complete the molds by 18 August, when the skeletons were to go on exhibition a the Australian Musuem, Sydney before returning to China, but it seems the work had to continue in Sydney (see above).
+* **8 August-30 October 1983.** The _Dinosaurs from China_ exhibition runs at the Australian Musuem in Sydney (Paolos 1932)
 * **When?** The cast skeleton of _Mamenchisaurus_, having been completed, is first exhibited in a low-necked posture similar to that used in the _Dinosaurs from China_ exhibition.
 * **When?** Rich notices that the anterior margin of the _Mamenchisaurus_ acetabulum is more robust than the dorsal margin and wonder whether it reared.
 * **22 October 1989.** The _Dinosaurs Alive!_ exhibition opens at the Museum of Victoria, intending to continue until February 1990 (Boddington 1989)[3]. It includes the _Mamenchisaurus_ cast in a near-vertical rearing posture.
@@ -48,6 +49,7 @@ Victoria technician, created a skull sculpture which replaced this.
 * Australian Museum Trust. 1983. Annual Report, 1982/83. https://media.australian.museum/media/dd/Uploads/Documents/26916/AMS112_1982-1983_lowres_web.17a47fc.pdf
 * Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15 October 1989, page XXX.
 * Pi, Lizhong, Yanghui Ou and Yong Ye. 1996. A new species of sauropod from Zigong, Sichuan, _Mamenchisaurus youngi_. Papers on Geosciences Contributed to the 30th International Geological Congress 1996:87-91. English translation by W. Downs.
+* Paolos, John. 1983. The 'Dinosaurs from China' Exhibition. _Education: Journal of the N.S.W. Public School Teachers Federation_ **64(12)**:21. https://nla.gov.au/nla.obj-731398879/view?sectionId=nla.obj-734036557&partId=nla.obj-731459115#page/n20/mode/1up
 * Rich, Thomas H., and Patricia Vickers-Rich. 2020. Dinosaurs of Darkness (second edition). Indiana University Press, Bloomington, Indiana, USA. 310 pages.
 * Trusler, Peter, Patricia Vickers-Rich, Thomas H. Rich. 2010. _The Artist and the Scientists_. Cambridge University Press, Melbourne, Australia. 306 pages.
 * Warren, J. W. Foreword. p. 5 in: XXX (eds.), _Dinosaurs From China_ catalogue.
