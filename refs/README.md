@@ -9,7 +9,7 @@ https://trove.nla.gov.au/newspaper/article/116445974
 
 Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15
 October 1989, page XXX.
-	Boddington-1989-Sunday-Hearld--1989-10-15.pdf
+	Boddington-1989-Sunday-Herald--1989-10-15.pdf
 
 Anonymous. 1989. Around the Galleries. Australian Jewish News, 3
 November 1989. https://trove.nla.gov.au/newspaper/article/261891472
