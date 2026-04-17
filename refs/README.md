@@ -7,6 +7,11 @@ Canberra Times, 27 January 1983, page 16.
 https://trove.nla.gov.au/newspaper/article/116445974
 	Anonymous-1983-Canberra-Times--1983-01-27--page16.png
 
+Paolos, John. 1983. The 'Dinosaurs from China' Exhibition. Education:
+Journal of the N.S.W. Public School Teachers Federation
+64(12):21. https://nla.gov.au/nla.obj-731398879/view?sectionId=nla.obj-734036557&partId=nla.obj-731459115#page/n20/mode/1up
+	Paolos-1983-dinosaurs-from-china-exhibition.jpeg
+
 Australian Museum Trust. 1983. Annual Report,
 1982/83. https://media.australian.museum/media/dd/Uploads/Documents/26916/AMS112_1982-1983_lowres_web.17a47fc.pdf
 	Australian-Museum-Trust-1983--annual-report-1982-83.pdf
