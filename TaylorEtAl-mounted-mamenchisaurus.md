@@ -7,16 +7,28 @@ Bristol BS8 1RJ,
 UK.
 <dino@miketaylor.org.uk>
 
-<!--
+Thomas H,. Rich.
+Sciences,
+Museums Victoria,
+Carlton 3001,
+Victoria,
+Australia.
+<trich@museum.vic.gov.au>
 
+Stephen F. Poropat.
+Western Australian Organic and Isotope Geochemistry Centre,
+School of Earth and Planetary Sciences,
+Curtin University,
+Bentley 6102,
+Western Australia,
+Australia.
+<stephenfporopat@gmail.com>
+
+<!--
 XXX maybe add:
 
-Thomas Rich <trich@museum.vic.gov.au>
-Peter Swinkels <peterswinkels@optusnet.com.au>
-Stephen Poropat <stephenfporopat@gmail.com>,
+Peter Swinkels <swinkelsfamily@optusnet.com.au>
 Pat Vickers Rich <pat.rich@monash.edu>
-Sue <swinkelsfamily@optusnet.com.au> 
-
 -->
 
 
