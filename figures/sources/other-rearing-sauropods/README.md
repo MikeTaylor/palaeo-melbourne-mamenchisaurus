@@ -59,11 +59,6 @@ Photo: m-hoch-from-below-at-wollaton-hall-2017
 Source: https://svpow.com/2018/03/14/the-mounted-mamenchisaurus-at-wollaton-hall/
 Contact: Adam Smith <plesiosauria@gmail.com>
 
-Institution: Melbourne Museum, Melbourne, Australia
-Taxon: Mamenchisaurus hochuanensis
-Photo: melbourne-mamenchi
-Contact: Kiana Clark <kclark@amnh.org>
-
 Institution: Natural History Museum Abu Dhabi, UAE
 Taxon: Barosaurus lentus
 Photo: 605775130_18302993149282468_8824964583390653946_n.jpg
