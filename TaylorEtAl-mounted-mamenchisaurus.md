@@ -40,6 +40,10 @@ XXX address
     * [Tom Rich](#tom-rich)
     * [Stephen Poropat](#stephen-poropat)
     * [Tom Rich](#tom-rich)
+    * [Stephen Poropat](#stephen-poropat)
+    * [Pat Rich](#pat-rich)
+    * [Peter Swinkels](#peter-swinkels)
+    * [Tom Rich](#tom-rich)
 
 
 
