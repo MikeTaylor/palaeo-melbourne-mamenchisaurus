@@ -1,13 +1,13 @@
 # The first mounted sauropod skeleton in a rearing posture: the Melbourne _Mamenchisaurus_.
 
-Michael P Taylor.
+**Michael P Taylor.**
 Department of Earth Sciences,
 University of Bristol,
 Bristol BS8 1RJ,
 UK.
 <dino@miketaylor.org.uk>
 
-Thomas H,. Rich.
+**Thomas H. Rich.**
 Sciences,
 Museums Victoria,
 Carlton 3001,
@@ -15,7 +15,7 @@ Victoria,
 Australia.
 <trich@museum.vic.gov.au>
 
-Stephen F. Poropat.
+**Stephen F. Poropat.**
 Western Australian Organic and Isotope Geochemistry Centre,
 School of Earth and Planetary Sciences,
 Curtin University,
@@ -24,12 +24,12 @@ Western Australia,
 Australia.
 <stephenfporopat@gmail.com>
 
-<!--
-XXX maybe add:
+**Peter Swinkels.**
+XXX address
+<swinkelsfamily@optusnet.com.au>
 
-Peter Swinkels <swinkelsfamily@optusnet.com.au>
-Pat Vickers Rich <pat.rich@monash.edu>
--->
+
+<!-- XXX maybe add: Patricia Vickers Rich <pat.rich@monash.edu> -->
 
 
 
