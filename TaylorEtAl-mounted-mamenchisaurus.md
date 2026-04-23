@@ -97,7 +97,7 @@ I can confirm that that t is not the Melbourne Mamenchisaurus. I think this is t
 Here is the Artist and the Scientist
 
 
-### Sue Swinkels
+### Peter Swinkels
 
 This is a low resolution image of the mount in McCoy Hall at the Melbourne Museum. If you need a higher resolution image you would need to go the Preparation Department or Image management.
 
