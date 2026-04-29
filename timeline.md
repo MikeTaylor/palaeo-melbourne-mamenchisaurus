@@ -15,6 +15,7 @@
 * **6 February 1983.** The _Dinosaurs from China_ exhibition closes. It attracted 300,000 visitors including 60,000 schoolchildren (NMV 1983:14). The intention is to complete the molds by 18 August, when the skeletons were to go on exhibition a the Australian Musuem, Sydney before returning to China, but it seems the work had to continue in Sydney (see above).
 * **30 June 1983.** By this point over 300 moulds had been prepared and casting was well in hand. A trade day was organized by Dow Corning Australia Pty Ltd, attracting over 40 participants. Over 35 lecture tours were organized to cater for public and school interest in the project. Television documentary material was broadcast by Channels 0, 2, 7 and 9 (NMV 1983:16).
 * **18 August-30 October 1983.** By arrangement with the National Museum of Victoria (NMV 1983:3), the _Dinosaurs from China_ exhibition runs at the Australian Musuem, 628 College Street, Sydney (Trusler et al. 2010:62) [4].
+* **30 June 1984.** By this point work has been completed on the moulding and casting of the dinosaur replicas (MoV 1984:13). During the year one dinosaur replica was produced and sold for $127,131 (MoV 1984:25).
 * **XXX when?** The cast skeleton of _Mamenchisaurus_, having been completed, is first exhibited in a low-necked posture similar to that used in the _Dinosaurs from China_ exhibition.
 * **XXX when?** Peter Trusler's original art pieces and the _Mamenchisaurus_/_Tsintaosaurus_ moulds were returned to IVPP.
 * **XXX when?** Rich notices that the anterior margin of the _Mamenchisaurus_ acetabulum is more robust than the dorsal margin and wonders whether it reared.
@@ -57,7 +58,8 @@
 * Anonymous. 1989. Around the Galleries. _Australian Jewish News_, 3 November 1989. https://trove.nla.gov.au/newspaper/article/261891472
 * Australian Museum Trust. 1983. Annual Report, 1982/83. https://media.australian.museum/media/dd/Uploads/Documents/26916/AMS112_1982-1983_lowres_web.17a47fc.pdf
 * Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15 October 1989, page XXX.
-* NMV (National Museum of Victoria). 1983. Annual Report 1982-93. 29 pages.
+* MoV (Museum of Victoria). 1984. Annual Report 1983-84. 29 pages.
+* NMV (National Museum of Victoria). 1983. Annual Report 1982-83. 29 pages.
 * Ouyang Hui and Ye Yong. 2002. _The first mamenchisaurian skeleton with complete skull: Mamenchisaurus youngi_. 111 pages + 20 plates. Sichuan Science and Technology Press, Chengdu.
 * Pi, Lizhong, Yanghui Ou and Yong Ye. 1996. A new species of sauropod from Zigong, Sichuan, _Mamenchisaurus youngi_. Papers on Geosciences Contributed to the 30th International Geological Congress 1996:87-91. English translation by W. Downs.
 * Paolos, John. 1983. The 'Dinosaurs from China' Exhibition. _Education: Journal of the N.S.W. Public School Teachers Federation_ **64(12)**:21. https://nla.gov.au/nla.obj-731398879/view?sectionId=nla.obj-734036557&partId=nla.obj-731459115#page/n20/mode/1up
