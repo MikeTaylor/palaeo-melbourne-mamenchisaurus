@@ -13,7 +13,7 @@ MoV (Museum of Victoria). 1986. Annual Report 1985/6. 52 pages.
 MoV (Museum of Victoria). 1987. Annual Report 1986/7. 55 pages.
 	Museum_of_Victoria_-_Annual_Report_-_1986_to_1987.PDF
 
-XXX
+MoV (Museum of Victoria). 1988. Annual Report 1987-1988. 58 pages.
 	Museum_of_Victoria_-_Annual_Report_-_1987_to_1988.PDF
 
 XXX
