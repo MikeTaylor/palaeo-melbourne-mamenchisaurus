@@ -15,12 +15,15 @@
 * **6 February 1983.** The _Dinosaurs from China_ exhibition closes. It attracted 300,000 visitors including 60,000 schoolchildren (NMV 1983:14). The intention is to complete the molds by 18 August, when the skeletons were to go on exhibition a the Australian Musuem, Sydney before returning to China, but it seems the work had to continue in Sydney (see above).
 * **30 June 1983.** By this point over 300 moulds had been prepared and casting was well in hand. A trade day was organized by Dow Corning Australia Pty Ltd, attracting over 40 participants. Over 35 lecture tours were organized to cater for public and school interest in the project. Television documentary material was broadcast by Channels 0, 2, 7 and 9 (NMV 1983:16).
 * **18 August-30 October 1983.** By arrangement with the National Museum of Victoria (NMV 1983:3), the _Dinosaurs from China_ exhibition runs at the Australian Musuem, 628 College Street, Sydney (Trusler et al. 2010:62) [4].
+* **1983 when?** The Museum of Victoria was established by the Museums Act 1983 of the Victorian Parliament, as the amalgamation of the National Museum of Victoria with the Science Museum of Victoria (MoV 1989:5).
 * **30 June 1984.** By this point work has been completed on the moulding and casting of the dinosaur replicas (MoV 1984:13). During the year one dinosaur replica was produced and sold for $127,131 (MoV 1984:25).
 * **30 June 1985.** By this point, two _Mamenchisaurus_ and two _Tsintaosaurus_ skeletons have been replicated in polyurethane; skeletons of both have been erected for the first time in the McCoy Hall (MoV 1985:18). _Mamenchisaurus_ was temporarily displaxed on the Swanston Street forecourt as part of the Museum's contribution to the Swanston Street Party which celebrated Victoria's 150th Anniversary (MoV 1985:18) XXX get a more precise date for this.
 * **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted on
 the mezzanine of McCoy Hall (MoV 1986:27).
 * **30 April 1987.** _Esso's Return of the Dinosaurs_ exhibition is opened by Premier John Cain in McCoy Hall, including the _Mamenchisaurus_ cast (MoV 1987:26). The skeletons were refurbished and rearticulating for this exhibition (MoV 1987:28). The exhibition ran until 10 August 1987 (MoV 1988:30).
 * **30 June 1988.** At some point in the year to date, The Education Service staged a successful programme in Sale where Esso's Return of the Dinosaurs was presented. 6,000 school children visited this exhibition at the Gippsland Centre, Sale (MoV 1988:26, 28). XXX Was the Mamenchisaurus taken to Sale?
+* **June 1988.** Exhibition at Queen Victoria Museum and Art Gallery, Launceston of dinosaurs from Australia, Canada and China (XXX including _Mamenchisaurus_?). This exhibition also travelled to Auckland Museum, New Zealand (XXX when?) (MoV 1989:24).
+* **30th June 1989.** By this point _Tsintaosaurus_ had been assembled in preparation for a new dinosaur exhibition (MoV 1989:23).
 * **XXX when?** The cast skeleton of _Mamenchisaurus_, having been completed, is first exhibited in a low-necked posture similar to that used in the _Dinosaurs from China_ exhibition.
 * **XXX when?** Peter Trusler's original art pieces and the _Mamenchisaurus_/_Tsintaosaurus_ moulds were returned to IVPP.
 * **XXX when?** Rich notices that the anterior margin of the _Mamenchisaurus_ acetabulum is more robust than the dorsal margin and wonders whether it reared.
@@ -68,6 +71,7 @@ the mezzanine of McCoy Hall (MoV 1986:27).
 * MoV (Museum of Victoria). 1986. Annual Report 1985/6. 52 pages.
 * MoV (Museum of Victoria). 1987. Annual Report 1986/7. 55 pages.
 * MoV (Museum of Victoria). 1988. Annual Report 1987-1988. 58 pages.
+* MoV (Museum of Victoria). 1989. Annual Report 1988-89. 70 pages.
 * NMV (National Museum of Victoria). 1983. Annual Report 1982-83. 29 pages.
 * Ouyang Hui and Ye Yong. 2002. _The first mamenchisaurian skeleton with complete skull: Mamenchisaurus youngi_. 111 pages + 20 plates. Sichuan Science and Technology Press, Chengdu.
 * Pi, Lizhong, Yanghui Ou and Yong Ye. 1996. A new species of sauropod from Zigong, Sichuan, _Mamenchisaurus youngi_. Papers on Geosciences Contributed to the 30th International Geological Congress 1996:87-91. English translation by W. Downs.
