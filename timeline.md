@@ -19,6 +19,7 @@
 * **30 June 1985.** By this point, two _Mamenchisaurus_ and two _Tsintaosaurus_ skeletons have been replicated in polyurethane; skeletons of both have been erected for the first time in the McCoy Hall (MoV 1985:18). _Mamenchisaurus_ was temporarily displaxed on the Swanston Street forecourt as part of the Museum's contribution to the Swanston Street Party which celebrated Victoria's 150th Anniversary (MoV 1985:18) XXX get a more precise date for this.
 * **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted on
 the mezzanine of McCoy Hall (MoV 1986:27).
+* **30 April 1987.** _Esso's Return of the Dinosaurs_ exhibition is opened by Premier John Cain in McCoy Hall, including the _Mamenchisaurus_ cast (MoV 1987:26). The skeletons were refurbished and rearticulating for this exhibition (MoV 1987:28).
 * **XXX when?** The cast skeleton of _Mamenchisaurus_, having been completed, is first exhibited in a low-necked posture similar to that used in the _Dinosaurs from China_ exhibition.
 * **XXX when?** Peter Trusler's original art pieces and the _Mamenchisaurus_/_Tsintaosaurus_ moulds were returned to IVPP.
 * **XXX when?** Rich notices that the anterior margin of the _Mamenchisaurus_ acetabulum is more robust than the dorsal margin and wonders whether it reared.
@@ -64,6 +65,7 @@ the mezzanine of McCoy Hall (MoV 1986:27).
 * MoV (Museum of Victoria). 1984. Annual Report 1983-84. 29 pages.
 * MoV (Museum of Victoria). 1985. Annual Report 1984-85. 47 pages.
 * MoV (Museum of Victoria). 1986. Annual Report 1985-86. 52 pages.
+* MoV (Museum of Victoria). 1987. Annual Report 1986-87. 55 pages.
 * NMV (National Museum of Victoria). 1983. Annual Report 1982-83. 29 pages.
 * Ouyang Hui and Ye Yong. 2002. _The first mamenchisaurian skeleton with complete skull: Mamenchisaurus youngi_. 111 pages + 20 plates. Sichuan Science and Technology Press, Chengdu.
 * Pi, Lizhong, Yanghui Ou and Yong Ye. 1996. A new species of sauropod from Zigong, Sichuan, _Mamenchisaurus youngi_. Papers on Geosciences Contributed to the 30th International Geological Congress 1996:87-91. English translation by W. Downs.
