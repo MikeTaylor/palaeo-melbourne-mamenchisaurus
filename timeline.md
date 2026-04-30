@@ -27,8 +27,7 @@ the mezzanine of McCoy Hall (MoV 1986:27).
 * **XXX when?** The cast skeleton of _Mamenchisaurus_, having been completed, is first exhibited in a low-necked posture similar to that used in the _Dinosaurs from China_ exhibition.
 * **XXX when?** Peter Trusler's original art pieces and the _Mamenchisaurus_/_Tsintaosaurus_ moulds were returned to IVPP.
 * **XXX when?** Rich notices that the anterior margin of the _Mamenchisaurus_ acetabulum is more robust than the dorsal margin and wonders whether it reared.
-* **22 October 1989.** The _Dinosaurs Alive!_ exhibition opens at the Museum of Victoria, intending to continue until February 1990 (Boddington 1989)[3]. It includes the _Mamenchisaurus_ cast in a near-vertical rearing posture.
-* **4 February 1990.** The _Dinosaurs Alive!_ exhibition closes (Anonymous 1989).
+* **22 October 1989.** The _Dinosaurs Alive!_ exhibition opens at the Museum of Victoria (Boddington 1989)[3]. It was intended to continue until 4 February 1990 (Anonymous 1989, Boddington 1989) but eventually ran until 12 March 1990 (MoV 1990:80). It includes the _Mamenchisaurus_ cast in a near-vertical rearing posture, a world first (MoV 1990:32). Over 287,OOO visitors viewed the exhibition (MoV 1990:10). A full-page plate of the rearing _Mamenchisaurus_ is included in the museum's annual report (MoV 1990:21).
 * **XXX when?** The skull having been missing from the _Mamenchisaurus hochuanensis_ specimen, a diplodocine skull had been used in its place. With the discovery of the skull of _M. youngi_ (Pi et al. 1996) and its subsequent full description (Ouyang and Ye 2002), Tom Davies, a Museum Victoria technician, created a skull sculpture which replaced this.
 * **Subsequently.** Numerous casts of _Mamenchisaurus hochuanensis_, made from the molds created in Australia, have been mounted around the world, including Trzic, Slovenia; Copenhagen, Denmark; and Los Angeles and Chicago, USA.
 
@@ -72,6 +71,7 @@ the mezzanine of McCoy Hall (MoV 1986:27).
 * MoV (Museum of Victoria). 1987. Annual Report 1986/7. 55 pages.
 * MoV (Museum of Victoria). 1988. Annual Report 1987-1988. 58 pages.
 * MoV (Museum of Victoria). 1989. Annual Report 1988-89. 70 pages.
+* MoV (Museum of Victoria). 1990. Annual Report 1989-1990. 99 pages.
 * NMV (National Museum of Victoria). 1983. Annual Report 1982-83. 29 pages.
 * Ouyang Hui and Ye Yong. 2002. _The first mamenchisaurian skeleton with complete skull: Mamenchisaurus youngi_. 111 pages + 20 plates. Sichuan Science and Technology Press, Chengdu.
 * Pi, Lizhong, Yanghui Ou and Yong Ye. 1996. A new species of sauropod from Zigong, Sichuan, _Mamenchisaurus youngi_. Papers on Geosciences Contributed to the 30th International Geological Congress 1996:87-91. English translation by W. Downs.
