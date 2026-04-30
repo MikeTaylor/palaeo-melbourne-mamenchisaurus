@@ -24,6 +24,10 @@ Anonymous. 1989. Around the Galleries. Australian Jewish News, 3
 November 1989. https://trove.nla.gov.au/newspaper/article/261891472
 	Anonymous-1989-Australian-Jewish-News--1989-11-03--page36.png
 
+Griggs, Tim. 1983. Chinese dinosaurs proving popular. Canberra Times,
+23 October 1983, page 7.
+	Griggs1983-Chinese-dinosaurs-proving-popular.jpeg
+
 Trusler, Peter, Patricia Vickers-Rich, Thomas H. Rich. 2010. The
 Artist and the Scientists. Cambridge University Press, Melbourne,
 Australia. 306 pages.
