@@ -17,6 +17,8 @@
 * **18 August-30 October 1983.** By arrangement with the National Museum of Victoria (NMV 1983:3), the _Dinosaurs from China_ exhibition runs at the Australian Musuem, 628 College Street, Sydney (Trusler et al. 2010:62) [4].
 * **30 June 1984.** By this point work has been completed on the moulding and casting of the dinosaur replicas (MoV 1984:13). During the year one dinosaur replica was produced and sold for $127,131 (MoV 1984:25).
 * **30 June 1985.** By this point, two _Mamenchisaurus_ and two _Tsintaosaurus_ skeletons have been replicated in polyurethane; skeletons of both have been erected for the first time in the McCoy Hall (MoV 1985:18). _Mamenchisaurus_ was temporarily displaxed on the Swanston Street forecourt as part of the Museum's contribution to the Swanston Street Party which celebrated Victoria's 150th Anniversary (MoV 1985:18) XXX get a more precise date for this.
+* **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted on
+the mezzanine of McCoy Hall (MoV 1986:27).
 * **XXX when?** The cast skeleton of _Mamenchisaurus_, having been completed, is first exhibited in a low-necked posture similar to that used in the _Dinosaurs from China_ exhibition.
 * **XXX when?** Peter Trusler's original art pieces and the _Mamenchisaurus_/_Tsintaosaurus_ moulds were returned to IVPP.
 * **XXX when?** Rich notices that the anterior margin of the _Mamenchisaurus_ acetabulum is more robust than the dorsal margin and wonders whether it reared.
@@ -61,6 +63,7 @@
 * Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15 October 1989, page XXX.
 * MoV (Museum of Victoria). 1984. Annual Report 1983-84. 29 pages.
 * MoV (Museum of Victoria). 1985. Annual Report 1984-85. 47 pages.
+* MoV (Museum of Victoria). 1986. Annual Report 1985-86. 52 pages.
 * NMV (National Museum of Victoria). 1983. Annual Report 1982-83. 29 pages.
 * Ouyang Hui and Ye Yong. 2002. _The first mamenchisaurian skeleton with complete skull: Mamenchisaurus youngi_. 111 pages + 20 plates. Sichuan Science and Technology Press, Chengdu.
 * Pi, Lizhong, Yanghui Ou and Yong Ye. 1996. A new species of sauropod from Zigong, Sichuan, _Mamenchisaurus youngi_. Papers on Geosciences Contributed to the 30th International Geological Congress 1996:87-91. English translation by W. Downs.
