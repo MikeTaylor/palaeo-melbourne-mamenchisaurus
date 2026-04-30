@@ -26,7 +26,7 @@
 * **XXX when?** The _Mamenchisaurus_/_Tsintaosaurus_ moulds, and Peter Trusler's original art pieces, were returned to IVPP.
 * **XXX when?** Rich noticed that the anterior margin of the _Mamenchisaurus_ acetabulum is more robust than the dorsal margin and wondered whether it reared.
 * **22 October 1989.** The _Dinosaurs Alive!_ exhibition opened at the Museum of Victoria. It was intended to continue until 4 February 1990 (Anonymous 1989, Boddington 1989) but eventually ran until 12 March 1990 (MoV 1990:80). It included the _Mamenchisaurus_ cast in a near-vertical rearing posture, a world first (MoV 1990:32). "No museum had previously mounted a [sauropod] skeleton in this pose" (Boddington 1989). "Mamenchisaurus posed, for the first time in a museum, reared on its hand legs" (Anonymous 1989). Over 287,000 visitors viewed the exhibition (MoV 1990:10). A full-page plate of the rearing _Mamenchisaurus_ was included in the museum's annual report (MoV 1990:21). Boddington (1989) included two small black-and-white photos in this article of the in-progress mounting.
-* **XXX when?** The skull having been missing from the _Mamenchisaurus hochuanensis_ specimen, a diplodocine skull had been used in its place. (XXX how was this skull sourced?) With the discovery of the skull of _M. youngi_ (Pi et al. 1996) and its subsequent full description (Ouyang and Ye 2002), Tom Davies, a Museum Victoria technician, created a skull sculpture which replaced this.
+* **XXX when?** The skull having been missing from the _Mamenchisaurus hochuanensis_ specimen, a diplodocine skull had been used in its place. (XXX how was this skull sourced?) With the discovery of the skull of _M. youngi_ (Pi et al. 1996) and its subsequent full description (Ouyang and Ye 2002), Tom Davies, a Museum Victoria technician, created a skull sculpture which replaced this. (XXX Was the earlier paper not known to the Museum?)
 * **Subsequently.** Numerous casts of _Mamenchisaurus hochuanensis_, made from the molds created in Australia, have been mounted around the world, including Trzic, Slovenia; Copenhagen, Denmark; and Los Angeles and Chicago, USA.
 
 
@@ -37,9 +37,8 @@
 
 * When the National Museum of Victoria merged with the Science Museum of Victoria to become the Museum of Victoria, did it stay in the same location?
 * When did the Museum of Victoria move locations?
-* "In 2002 the skull of a second species of _Mamenchisaurus_ was discovered and described". But it was first described in 1996. Was the earlier paper not known to the Museum?
 
-> The Council of the National Museum employed Mr George Chomiak to evaluate the impact and effectiveness of the Dinosaurs from China exhibition in relation to the objectives of the exhibition.  Mr Chomiak has submitted his report which will be used in planning further exhibitions.
+> The Council of the National Museum employed Mr George Chomiak to evaluate the impact and effectiveness of the Dinosaurs from China exhibition in relation to the objectives of the exhibition.  Mr Chomiak has submitted his report which will be used in planning further exhibitions.  
 > -- NMV 1983:16
 
 * Can we get hold of this report?
