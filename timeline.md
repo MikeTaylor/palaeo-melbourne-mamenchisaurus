@@ -21,7 +21,7 @@
 * **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted on
 the mezzanine of McCoy Hall (MoV 1986:27).
 * **30 April 1987.** _Esso's Return of the Dinosaurs_ exhibition is opened by Premier John Cain in McCoy Hall, including the _Mamenchisaurus_ cast (MoV 1987:26). The skeletons were refurbished and rearticulating for this exhibition (MoV 1987:28). The exhibition ran until 10 August 1987 (MoV 1988:30).
-* **30 June 1988.** At some point in the year to date, The Education Service staged a successful programme in Sale where Esso's Return of the Dinosaurs was presented. 6,000 school children visited this exhibition at the Gippsland Centre, Sale (MoV 1988:26, 28). XXX Was the Mamenchisaurus taken to Sale?
+* **30 June 1988.** At some point in the year to date, The Education Service staged a successful programme in Sale where Esso's Return of the Dinosaurs was presented. 6,000 school children visited this exhibition at the Gippsland Centre, Sale (MoV 1988:26, 28). XXX Was the _Mamenchisaurus_ taken to Sale?
 * **June 1988.** Exhibition at Queen Victoria Museum and Art Gallery, Launceston of dinosaurs from Australia, Canada and China (XXX including _Mamenchisaurus_?). This exhibition also travelled to Auckland Museum, New Zealand (XXX when?) (MoV 1989:24).
 * **30th June 1989.** By this point _Tsintaosaurus_ had been assembled in preparation for a new dinosaur exhibition (MoV 1989:23).
 * **XXX when?** The cast skeleton of _Mamenchisaurus_, having been completed, is first exhibited in a low-necked posture similar to that used in the _Dinosaurs from China_ exhibition.
@@ -34,13 +34,13 @@ the mezzanine of McCoy Hall (MoV 1986:27).
 
 ## Questions
 
-> In the years that followed, the casts of Mamenchisaurus and Tsintaosaurus were mounted and remounted a number of times, first moved about within the McCoy Gallery of the old National Museum of Victoria on Russell Street, then twice within the newly built Melbourne Museum at Exhibition Gardens, where they now reside. (This museum now operates as Museum Victoria.)  
+> In the years that followed, the casts of _Mamenchisaurus_ and _Tsintaosaurus_ were mounted and remounted a number of times, first moved about within the McCoy Gallery of the old National Museum of Victoria on Russell Street, then twice within the newly built Melbourne Museum at Exhibition Gardens, where they now reside. (This museum now operates as Museum Victoria.)  
 > -- Trusler et al. 2010:66.
 
 * Is the National Museum of Victoria the same institution as Museum Victoria? When did it change its name? Did it stay in the same location at that time?
 * When did Museum Victoria move locations?
 * What was the source of the diplodocine skull used for the original mount?
-* "In 2002 the skull of a second species of Mamenchisaurus was discovered and described". But it was first described in 1996. Was the earlier paper not known to the Museum?
+* "In 2002 the skull of a second species of _Mamenchisaurus_ was discovered and described". But it was first described in 1996. Was the earlier paper not known to the Museum?
 
 > The Council of the National Museum employed Mr George Chomiak to evaluate the impact and effectiveness of the Dinosaurs from China exhibition in relation to the objectives of the exhibition.  Mr Chomiak has submitted his report which will be used in planning further exhibitions.
 > -- NMV 1983:16
@@ -54,7 +54,7 @@ the mezzanine of McCoy Hall (MoV 1986:27).
 
 [2] Worth quoting somwhere: Don Anderson (the administrator of the museum) said that the cost of the whole exihibition had been $430,000 [convert to USD?], including the cost of making the moulds and casts. These alone would cost about $41,000 (Anonymous 1983).
 
-[3] We can also quote "No museum had previously mounted a [sauropod] skeleton in this pose" from this article. Also, there is a small black-and-white photo in this article of the in-progress mounting. Anonymous 1989 also says that this exhibition was the first time a Mamenchisaurus was posed reared on its hind legs.
+[3] We can also quote "No museum had previously mounted a [sauropod] skeleton in this pose" from this article. Also, there is a small black-and-white photo in this article of the in-progress mounting. Anonymous 1989 also says that this exhibition was the first time a _Mamenchisaurus_ was posed reared on its hind legs.
 
 [4] But the subheader of Paolos (1983) gives the opening date in Sydney as 8 (not 18) August 1983.
 
