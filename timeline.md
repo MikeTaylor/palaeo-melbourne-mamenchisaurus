@@ -63,9 +63,9 @@ the mezzanine of McCoy Hall (MoV 1986:27).
 * Australian Museum Trust. 1983. Annual Report, 1982/83. https://media.australian.museum/media/dd/Uploads/Documents/26916/AMS112_1982-1983_lowres_web.17a47fc.pdf
 * Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15 October 1989, page XXX.
 * MoV (Museum of Victoria). 1984. Annual Report 1983-84. 29 pages.
-* MoV (Museum of Victoria). 1985. Annual Report 1984-85. 47 pages.
-* MoV (Museum of Victoria). 1986. Annual Report 1985-86. 52 pages.
-* MoV (Museum of Victoria). 1987. Annual Report 1986-87. 55 pages.
+* MoV (Museum of Victoria). 1985. Annual Report 1984-1985. 47 pages.
+* MoV (Museum of Victoria). 1986. Annual Report 1985/6. 52 pages.
+* MoV (Museum of Victoria). 1987. Annual Report 1986/7. 55 pages.
 * NMV (National Museum of Victoria). 1983. Annual Report 1982-83. 29 pages.
 * Ouyang Hui and Ye Yong. 2002. _The first mamenchisaurian skeleton with complete skull: Mamenchisaurus youngi_. 111 pages + 20 plates. Sichuan Science and Technology Press, Chengdu.
 * Pi, Lizhong, Yanghui Ou and Yong Ye. 1996. A new species of sauropod from Zigong, Sichuan, _Mamenchisaurus youngi_. Papers on Geosciences Contributed to the 30th International Geological Congress 1996:87-91. English translation by W. Downs.
