@@ -37,8 +37,8 @@ the mezzanine of McCoy Hall (MoV 1986:27).
 > In the years that followed, the casts of _Mamenchisaurus_ and _Tsintaosaurus_ were mounted and remounted a number of times, first moved about within the McCoy Gallery of the old National Museum of Victoria on Russell Street, then twice within the newly built Melbourne Museum at Exhibition Gardens, where they now reside. (This museum now operates as Museum Victoria.)  
 > -- Trusler et al. 2010:66.
 
-* Is the National Museum of Victoria the same institution as Museum Victoria? When did it change its name? Did it stay in the same location at that time?
-* When did Museum Victoria move locations?
+* When the National Museum of Victoria merged with the Science Museum of Victoria to become the Museum of Victoria, did it stay in the same location?
+* When did the Museum of Victoria move locations?
 * What was the source of the diplodocine skull used for the original mount?
 * "In 2002 the skull of a second species of _Mamenchisaurus_ was discovered and described". But it was first described in 1996. Was the earlier paper not known to the Museum?
 
