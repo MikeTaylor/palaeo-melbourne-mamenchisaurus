@@ -28,6 +28,13 @@ Griggs, Tim. 1983. Chinese dinosaurs proving popular. Canberra Times,
 23 October 1983, page 7.
 	Griggs1983-Chinese-dinosaurs-proving-popular.jpeg
 
+Salt, Lucy. 2018. Imagine a city: Swanston Street Party and the
+greening of Melbourne. Foreground, 24 May
+2018. https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/
+-- archived at
+https://web.archive.org/web/20260423055246/https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/
+	Salt2018-swanston-street-party.pdf
+
 Trusler, Peter, Patricia Vickers-Rich, Thomas H. Rich. 2010. The
 Artist and the Scientists. Cambridge University Press, Melbourne,
 Australia. 306 pages.
