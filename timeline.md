@@ -16,8 +16,8 @@
 * **30 June 1983.** By this point over 300 moulds had been prepared and casting was well in hand. A trade day was organized by Dow Corning Australia Pty Ltd, attracting over 40 participants. Over 35 lecture tours were organized to cater for public and school interest in the project. Television documentary material was broadcast by Channels 0, 2, 7 and 9 (NMV 1983:16).
 * **1 July 1983.** The Museum of Victoria was established by the Museums Act 1983 of the Victorian Parliament, as the amalgamation of the National Museum of Victoria with the Science Museum of Victoria (MoV 1989:5; Parliament of Victoria 1983:39). XXX Did the museum move location with this change?
 * **18 August-October 1983.** By arrangement with the National Museum of Victoria (NMV 1983:3), the _Dinosaurs from China_ exhibition ran at the Australian Musuem, 628 College Street, Sydney (Trusler et al. 2010:62) (Note: the subheader of Paolos 1983 gives the opening date in Sydney as 8 (not 18) August 1983.) By 23 October, 200,000 people had seen the exhibition, with the total number expected to rise to 250,000 (Griggs 1983). The original closing date of 30 October (Trusler et al. 2010:62) was extended to 13 November (Griggs 1983).
-* **30 June 1984.** By this point work has been completed on the moulding and casting of the dinosaur replicas (MoV 1984:13). During the year one dinosaur replica was produced and sold for $127,131 (MoV 1984:25).
-* **9-10 February 1985.** The replica _Mamenchisaurus_ was temporarily displayed on the Swanston Street forecourt as part of the Museum's contribution to the Swanston Street Party which celebrated Victoria's 150th Anniversary (MoV 1985:18; Salt 2018).
+* **30 June 1984.** By this point work has been completed on the moulding and casting of the dinosaur replicas (MoV 1984:13). During the year one dinosaur replica was produced and sold for $127,131 (MoV 1984:25). XXX When was the _Mamenchisaurus_ cast first mounted?
+* **9-10 February 1985.** The replica _Mamenchisaurus_ was temporarily displayed on the Swanston Street forecourt as part of the Museum's contribution to the Swanston Street Party which celebrated Victoria's 150th Anniversary (MoV 1985:18; Salt 2018). XXX Can we find a photo of this?
 * **30 June 1985.** By this point, two _Mamenchisaurus_ and two _Tsintaosaurus_ skeletons had been replicated in polyurethane; skeletons of both had been erected for the first time in the McCoy Hall (MoV 1985:18), in the low-necked posture used for the original exhibition.
 e* **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted in the mezzanine of McCoy Hall (MoV 1986:27).
 * **30 April 1987.** Esso's _Return of the Dinosaurs_ exhibition was opened by Premier John Cain in McCoy Hall, including the _Mamenchisaurus_ cast (MoV 1987:26). The skeletons were refurbished and rearticulated for this exhibition (MoV 1987:28). The exhibition ran until 10 August 1987 (MoV 1988:30).
@@ -30,15 +30,16 @@ e* **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted in 
 * **XXX when?** The skull having been missing from the _Mamenchisaurus hochuanensis_ specimen, a diplodocine skull had been used in its place. (XXX how was this skull sourced?) With the discovery of the skull of _M. youngi_ (Pi et al. 1996) and its subsequent full description (Ouyang and Ye 2002), Tom Davies, a Museum Victoria technician, created a skull sculpture which replaced this. (XXX Was the earlier paper not known to the Museum?)
 * **Subsequently.** Numerous casts of _Mamenchisaurus hochuanensis_, made from the molds created in Australia, have been mounted around the world, including Trzic, Slovenia; Copenhagen, Denmark; and Los Angeles and Chicago, USA.
 * **1998.** The Museum of Victoria was renamed Museum Victoria.
-* **2016.** Museum Victoria was renamed Museums Victoria.
+* **21 October 2000.** The natural history campus of Museum Victoria moved to the new purpose-built Melbourne Museum location in Carlton Gardens (Anonyous 2000, Museums Victoria 2025).
+* **2016.** Museum Victoria was renamed Museums Victoria. Museums Victoria now has three campuses: Melbourne Museum in Carlton Gardens where the cast _Mamenchisaurus_ is located, Science Works, and Immigration Museum.
 
 
 ## Questions
 
-> In the years that followed, the casts of _Mamenchisaurus_ and _Tsintaosaurus_ were mounted and remounted a number of times, first moved about within the McCoy Gallery of the old National Museum of Victoria on Russell Street, then twice within the newly built Melbourne Museum at Exhibition Gardens, where they now reside. (This museum now operates as Museum Victoria.)  
+> In the years that followed, the casts of _Mamenchisaurus_ and _Tsintaosaurus_ were mounted and remounted a number of times, first moved about within the McCoy Gallery of the old National Museum of Victoria on Russell Street, then twice within the newly built Melbourne Museum at Exhibition Gardens [properly Carlton Gardens], where they now reside. (This museum now operates as Museum Victoria.)  
 > -- Trusler et al. 2010:66.
 
-* When did the Museum of Victoria move locations? Is Melbourne Museum a sewparate institution?
+* When did the Museum of Victoria move locations?
 
 > The Council of the National Museum employed Mr George Chomiak to evaluate the impact and effectiveness of the Dinosaurs from China exhibition in relation to the objectives of the exhibition.  Mr Chomiak has submitted his report which will be used in planning further exhibitions.  
 > -- NMV 1983:16
@@ -50,9 +51,11 @@ e* **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted in 
 
 * Anonymous. 1983. Skeletons of dinosaurs copied in Melbourne. _The Canberra Times_, 27 January 1983, page 16. https://trove.nla.gov.au/newspaper/article/116445974
 * Anonymous. 1989. Around the Galleries. _Australian Jewish News_, 3 November 1989. https://trove.nla.gov.au/newspaper/article/261891472
+* Anonymous. 2000. Home to the Future. Time magazine. https://time.com/archive/6953129/home-to-the-future/ archived at https://web.archive.org/web/20260502111909/https://time.com/archive/6953129/home-to-the-future/
 * Australian Museum Trust. 1983. Annual Report, 1982/83. https://media.australian.museum/media/dd/Uploads/Documents/26916/AMS112_1982-1983_lowres_web.17a47fc.pdf
 * Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15 October 1989, page XXX.
 * Griggs, Tim. 1983. Chinese dinosaurs proving popular. Canberra Times, 23 October 1983, page 7.
+* Museums Victoria. 2025. Melbourne Museum celebrates 25 years at Carlton Gardens. Museums Victoria media release, 21 October 2025. https://museumsvictoria.com.au/media-releases/melbourne-museum-celebrates-25-years-at-carlton-gardens/ archived at https://web.archive.org/web/20260309095531/https://museumsvictoria.com.au/media-releases/melbourne-museum-celebrates-25-years-at-carlton-gardens/
 * MoV (Museum of Victoria). 1984. Annual Report 1983-84. 29 pages.
 * MoV (Museum of Victoria). 1985. Annual Report 1984-1985. 47 pages.
 * MoV (Museum of Victoria). 1986. Annual Report 1985/6. 52 pages.
@@ -66,7 +69,7 @@ e* **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted in 
 * Pi, Lizhong, Yanghui Ou and Yong Ye. 1996. A new species of sauropod from Zigong, Sichuan, _Mamenchisaurus youngi_. Papers on Geosciences Contributed to the 30th International Geological Congress 1996:87-91. English translation by W. Downs.
 * Paolos, John. 1983. The 'Dinosaurs from China' Exhibition. _Education: Journal of the N.S.W. Public School Teachers Federation_ **64(12)**:21. https://nla.gov.au/nla.obj-731398879/view?sectionId=nla.obj-734036557&partId=nla.obj-731459115#page/n20/mode/1up
 * Rich, Thomas H., and Patricia Vickers-Rich. 2020. Dinosaurs of Darkness (second edition). Indiana University Press, Bloomington, Indiana, USA. 310 pages.
-* Salt, Lucy. 2018. Imagine a city: Swanston Street Party and the greening of Melbourne. Foreground, 24 May 2018. https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/ -- archived at https://web.archive.org/web/20260423055246/https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/
+* Salt, Lucy. 2018. Imagine a city: Swanston Street Party and the greening of Melbourne. Foreground, 24 May 2018. https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/ archived at https://web.archive.org/web/20260423055246/https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/
 * Trusler, Peter, Patricia Vickers-Rich, Thomas H. Rich. 2010. _The Artist and the Scientists_. Cambridge University Press, Melbourne, Australia. 306 pages.
 * Warren, J. W. Foreword. p. 5 in: XXX (eds.), _Dinosaurs From China_ catalogue.
 
