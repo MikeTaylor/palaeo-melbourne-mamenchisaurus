@@ -71,6 +71,6 @@ e* **30 June 1986.** By this point, the replica _Mamenchisaurus_ was mounted in 
 * Rich, Thomas H., and Patricia Vickers-Rich. 2020. Dinosaurs of Darkness (second edition). Indiana University Press, Bloomington, Indiana, USA. 310 pages.
 * Salt, Lucy. 2018. Imagine a city: Swanston Street Party and the greening of Melbourne. Foreground, 24 May 2018. https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/ archived at https://web.archive.org/web/20260423055246/https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/
 * Trusler, Peter, Patricia Vickers-Rich, Thomas H. Rich. 2010. _The Artist and the Scientists_. Cambridge University Press, Melbourne, Australia. 306 pages.
-* Warren, J. W. Foreword. p. 5 in: XXX (eds.), _Dinosaurs From China_ catalogue.
+* Warren, J. W. Foreword. p. 5 in: Council of the National Museum of Victoria (eds.), _Dinosaurs From China_ catalogue.
 
 
