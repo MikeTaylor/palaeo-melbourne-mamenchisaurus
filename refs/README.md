@@ -1,4 +1,4 @@
-Warren, J. W. Foreword. p. 5 in: Council of the National Museum of
+Warren, J. W. 1982. Foreword. p. 5 in: Council of the National Museum of
 Victoria (eds.), Dinosaurs From China catalogue.
 	Warren-Undated--Dinosaurs-from-China-catalogue-forword.jpeg
 
