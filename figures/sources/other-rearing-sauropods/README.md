@@ -87,3 +87,9 @@ Photo: yjgqu4r9rdpc1.png
 Source: https://www.reddit.com/r/Dinosaurs/comments/1bizwjw/reconstruction_of_a_yearling_diplodocus_at_the/
 Contact: XXX
 
+Institution: Lee Kong Chian Natural History Museum, Singapore
+Taxon: Diplodocidae incertae sedis
+Photo: Diplodocid_sauropod_skeletons,_Lee_Kong_Chian_Natural_History_Museum,_Singapore_-_20150808-01.jpg
+Source: https://commons.wikimedia.org/wiki/File:Diplodocid_sauropod_skeletons,_Lee_Kong_Chian_Natural_History_Museum,_Singapore_-_20150808-01.jpg
+Contact: "Jacklee"
+
