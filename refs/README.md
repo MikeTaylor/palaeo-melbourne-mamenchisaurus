@@ -1,5 +1,5 @@
-Warren, J. W. Foreword. p. 5 in: XXX (eds.), Dinosaurs From China
-catalogue.
+Warren, J. W. Foreword. p. 5 in: Council of the National Museum of
+Victoria (eds.), Dinosaurs From China catalogue.
 	Warren-Undated--Dinosaurs-from-China-catalogue-forword.jpeg
 
 Anonymous. 1983. Skeletons of dinosaurs copied in Melbourne. The
