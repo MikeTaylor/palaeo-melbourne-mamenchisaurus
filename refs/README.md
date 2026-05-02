@@ -28,6 +28,11 @@ Griggs, Tim. 1983. Chinese dinosaurs proving popular. Canberra Times,
 23 October 1983, page 7.
 	Griggs1983-Chinese-dinosaurs-proving-popular.jpeg
 
+Anonymous. 2000. Home to the Future. Time magazine.
+https://time.com/archive/6953129/home-to-the-future/ archived at
+https://web.archive.org/web/20260502111909/https://time.com/archive/6953129/home-to-the-future/
+	Anonymous2000-home-to-the-future.pdf
+
 Salt, Lucy. 2018. Imagine a city: Swanston Street Party and the
 greening of Melbourne. Foreground, 24 May
 2018. https://www.foreground.com.au/parks-places/swanston-street-party-greening-melbourne/
