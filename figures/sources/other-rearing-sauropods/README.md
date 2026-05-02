@@ -44,6 +44,9 @@ Taxon: Amargasaurus cazaui
 Photo: 1329414-medium.jpg
 Source: https://collections.museumsvictoria.com.au/specimens/1147189
 Contact: Stephen Poropat <stephenfporopat@gmail.com>
+Photo: 480448482_3902452780029723_3792313583791040735_n.jpg
+Source: https://www.facebook.com/photo.php?fbid=3003956836545993&id=1528623450746013&set=a.1556936881248003
+Contact: "I Know Dino" on Facebook
 
 Institution: Traveling exhibit
 Taxon: Jobaria tigiduensis
