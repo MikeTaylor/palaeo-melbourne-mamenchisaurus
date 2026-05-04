@@ -7,6 +7,10 @@ Bristol BS8 1RJ,
 UK.
 <dino@miketaylor.org.uk>
 
+**Peter Swinkels.**
+XXX address
+<swinkelsfamily@optusnet.com.au>
+
 **Thomas H. Rich.**
 Sciences,
 Museums Victoria,
@@ -14,6 +18,14 @@ Carlton 3001,
 Victoria,
 Australia.
 <trich@museum.vic.gov.au>
+
+**Patricia Vickers-Rich.**
+School of Earth, Atmosphere and Environment,
+Monash University,
+Melbourne,
+Victoria 3800,
+Australia.
+<pat.rich@monash.edu>
 
 **Stephen F. Poropat.**
 Western Australian Organic and Isotope Geochemistry Centre,
@@ -23,14 +35,6 @@ Bentley 6102,
 Western Australia,
 Australia.
 <stephenfporopat@gmail.com>
-
-**Peter Swinkels.**
-XXX address
-<swinkelsfamily@optusnet.com.au>
-
-
-<!-- XXX maybe add: Patricia Vickers Rich <pat.rich@monash.edu> -->
-
 
 
 ## Contents
