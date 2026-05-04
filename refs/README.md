@@ -1,3 +1,7 @@
+Council of the National Museum of Victoria (eds.). 1982. Dinosaurs
+From China catalogue.
+	CouncilOfNMOV29182-dinosaurs-from-china-catalogue.pdf
+
 Warren, J. W. 1982. Foreword. p. 5 in: Council of the National Museum of
 Victoria (eds.), Dinosaurs From China catalogue.
 	Warren-Undated--Dinosaurs-from-China-catalogue-forword.jpeg
