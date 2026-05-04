@@ -20,9 +20,9 @@ Australian Museum Trust. 1983. Annual Report,
 1982/83. https://media.australian.museum/media/dd/Uploads/Documents/26916/AMS112_1982-1983_lowres_web.17a47fc.pdf
 	Australian-Museum-Trust-1983--annual-report-1982-83.pdf
 
-Boddington, James. 1989. XXX title. Sunday Herald (Supplement), 15
-October 1989, page XXX.
-	Boddington-1989-Sunday-Herald--1989-10-15.pdf
+Clarke, Jane. 1989. Dinosaurs come in from the cold. Sunday Herald
+(Supplement), 15 October 1989, pages 10-15.
+	Clarke-1989-Sunday-Herald--1989-10-15--p15.pdf
 
 Anonymous. 1989. Around the Galleries. Australian Jewish News, 3
 November 1989. https://trove.nla.gov.au/newspaper/article/261891472
