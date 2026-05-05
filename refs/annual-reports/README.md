@@ -1,3 +1,6 @@
+NMV (National Museum of Victoria). 1982. Annual Report 1981-82. 101 unnumbered pages.
+	National_Museum_of_Victoria_1981_-_1982_Annual_Report.PDF
+
 NMV (National Museum of Victoria). 1983. Annual Report 1982-83. 29 pages.
 	National_Museum_of_Victoria_1982_-_1983_Annual_Report.PDF
 
@@ -21,4 +24,7 @@ MoV (Museum of Victoria). 1989. Annual Report 1988-89. 70 pages.
 
 MoV (Museum of Victoria). 1990. Annual Report 1989-1990. 99 pages.
 	Museum_of_Victoria_-_Annual_Report_-_1989_to_1990.PDF
+
+MoV (Museum of Victoria). 1991. Annual Report 1990-91. 121 pages.
+	Museum_of_Victoria_-_Annual_Report_-_1990_to_1991.PDF
 
