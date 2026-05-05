@@ -131,4 +131,6 @@ So will not be sending a message to Gene Gaffney after all. The chase for the pr
 
 What you quote from The Artist and the Scientists was written by Peter Trusler. From that text, it would seem that the two of us were independently struck by the same feature of the acetabulum. Although a co-author on The Artist and the Scientists, I do not recall having previously been struck by this possible coincidence that both of us observed the same feature of the acetabulum.  Also, I do not recall ever discussing the acetabulum with Peter. As I have written previously, the moment I do vividly recall is looking at the upright mount of the skeleton and observing the acetabulum. My memory immediately before and after that event, that is, its setting, is non-existent in my memory.
 
+... but I was quoting Trusler et al. (2010:66-67), which is definitely one of Tom's sections: two paragraphs before, he refers to Peter in the third person.
+
 
