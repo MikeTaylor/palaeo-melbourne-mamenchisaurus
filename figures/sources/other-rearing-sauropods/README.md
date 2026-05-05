@@ -91,5 +91,6 @@ Institution: Lee Kong Chian Natural History Museum, Singapore
 Taxon: Diplodocidae incertae sedis
 Photo: Diplodocid_sauropod_skeletons,_Lee_Kong_Chian_Natural_History_Museum,_Singapore_-_20150808-01.jpg
 Source: https://commons.wikimedia.org/wiki/File:Diplodocid_sauropod_skeletons,_Lee_Kong_Chian_Natural_History_Museum,_Singapore_-_20150808-01.jpg
-Contact: "Jacklee"
+Contact: Jack at Wikipedia <jack.at.wikipedia@gmail.com>
+Licence: CC By, by permission
 
