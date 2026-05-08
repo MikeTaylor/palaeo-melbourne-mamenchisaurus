@@ -47,6 +47,15 @@ Contact: Stephen Poropat <stephenfporopat@gmail.com>
 Photo: DSC04557.JPG
 Source: https://www.facebook.com/photo.php?fbid=3003956836545993&id=1528623450746013&set=a.1556936881248003
 Contact: Garret and Sabrina (I Know Dino) <plesiosaur@iknowdino.com>
+Photo: 1000000968.jpg
+Source: https://svpow.com/2026/04/11/in-search-of-rearing-mounted-sauropod-skeletons/#comment-272263
+Contact Jack Perkins <perkins.jackD303@outlook.com>
+
+Institution: Lauceston, Tasmania, Australia
+Taxon: Amargasaurus cazaui
+Photo: 1000000925.jpg
+Source: https://svpow.com/2026/04/11/in-search-of-rearing-mounted-sauropod-skeletons/#comment-272263
+Contact Jack Perkins <perkins.jackD303@outlook.com>
 
 Institution: Traveling exhibit
 Taxon: Jobaria tigiduensis
