@@ -134,3 +134,17 @@ What you quote from The Artist and the Scientists was written by Peter Trusler. 
 ... but I was quoting Trusler et al. (2010:66-67), which is definitely one of Tom's sections: two paragraphs before, he refers to Peter in the third person.
 
 
+### Cardiff exhibition
+
+See email thread "Chinese Dinosaurs exhibition" with Adam Smith.
+
+December 1986-April 1988
+
+See photo tumblr_pmgflthAV81unef6uo1_1280.jpg
+
+
+### Woolaton Hall exhibition
+
+See email thread "Chinese Dinosaurs exhibition" with Adam Smith.
+
+
