@@ -2,11 +2,13 @@ Institution: Museum of Science and Innovation (MOSI)
 Taxon: Diplodocus (from DinoLab Concrete-Diplo casts)
 Photo: figure-10-mosi-diplodocus-pair.jpeg
 Contact: David Letasi <dletasi@yahoo.com>
+License: CC By
 
 Institution: Wyoming Dinosaur Center, Thermopolis WY
 Taxon: Camarasaurus
 Photo: WDC_-_Camarasaurus_skeleton.jpg
 Source: https://commons.wikimedia.org/wiki/File:WDC_-_Camarasaurus_skeleton.jpg
+License: CC By
 Photo: wdc-cam
 Source: https://svpow.com/2026/04/11/in-search-of-rearing-mounted-sauropod-skeletons/#comment-272236
 Contact: Scott Hartman <skeletaldrawing@gmail.com> 
@@ -19,6 +21,8 @@ Contact: Matt Carrano <CARRANOM@si.edu>
 Institution: Naturalis Biodiversity Center (Leiden, the Netherlands)
 Taxon: Camarasaurus
 Photo: WLANL_-_thedogg_-_Camarasaurus_(2).jpg
+Source: https://commons.wikimedia.org/wiki/File:WLANL_-_thedogg_-_Camarasaurus_(2).jpg
+License: CC By-SA
 Contact: XXX
 
 Institution: Houston Museum of Natural Science
