@@ -148,3 +148,17 @@ See photo tumblr_pmgflthAV81unef6uo1_1280.jpg
 See email thread "Chinese Dinosaurs exhibition" with Adam Smith.
 
 
+## Figures
+
+* Quarry map and photo of _Mamenchisaurus hochuanensis_.
+* The original _Mamenchisaurus hochuanensis_ as mounted in China
+* The original _Mamenchisaurus hochuanensis_ being mounted in Melbourne. See [photo from annual report](figures/sources/australian-museum-trust/Australian-Museum-Trust-1983--annual-report-1982-83--p9--Mamenchisaurus-being-mounted.jpeg)
+* The original _Mamenchisaurus hochuanensis_ as mounted in China on exhibit in Melbourne in 1982. See [photo from annual report](figures/sources/annual_reports/NMV1982-p13-Mamenchisaurus-and-visitors.png).
+* Peter Trusler's ubiquitous watercolour painting of the _Mamenchisaurus hochuanensis_ mounted skeleton.
+* _Mamenchisaurus hochuanensis_ on display outdoors in the Swanston Street party in 1985.
+* _Mamenchisaurus hochuanensis_ on tour in Launceston, Tasmania in 1988.
+* The bipedally mounted _Mamenchisaurus hochuanensis__ in 1989.
+* The Copenhagen _Mamenchisaurus hochuanensis_ in 2004.
+* Montages of other rearing sauropod mounts. See [folder full of these](figures/sources/other-rearing-sauropods/)
+
+
