@@ -23,7 +23,7 @@ Institution: Naturalis Biodiversity Center (Leiden, the Netherlands)
 Taxon: Camarasaurus
 Photo: Overzicht zaal Dinotijd met publiek (vlnr Stegosaurus, vliegend reptiel, Triceratops, Camarasaurus) - credits Mike Bink Fotografie_Naturalis Biodiversity Center.jpeg
 Photo: p 84 camarasaurus .jpg
-License: CC By-SA -- email confirmation incoming
+License: CC By
 Contact: Bart Braun <bart.braun@naturalis.nl> 
 
 Institution: Houston Museum of Natural Science
