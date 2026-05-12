@@ -121,3 +121,9 @@ Source: https://commons.wikimedia.org/wiki/File:Diplodocid_sauropod_skeletons,_L
 Contact: Jack at Wikipedia <jack.at.wikipedia@gmail.com>
 License: CC By, by permission
 
+
+---
+
+
+SEE ALSO ../../../../palaeo-baromount/notes/successors
+starting at "This literally just popped up on my feed"
