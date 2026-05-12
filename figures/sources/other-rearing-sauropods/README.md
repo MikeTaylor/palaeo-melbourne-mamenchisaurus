@@ -32,6 +32,9 @@ Photo: 376280514_696547365846381_8541128917881239994_n.jpg
 Source: https://instagram.fbrs5-1.fna.fbcdn.net/v/t39.30808-6/376280514_696547365846381_8541128917881239994_n.jpg?stp=dst-jpg_e35_tt6&ig_cache_key=MzE5MzE0ODA0MTgxNjg4NzgyNg%3D%3D.3-ccb7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEzNjZ4MTcwNy5zZHIuQzMifQ%3D%3D&_nc_ohc=KD8d-4mZPXEQ7kNvwFKL40W&_nc_oc=Adq0kL3dNuZFpvNf5QxU3ZDCx_AA1w4qEGPxH0xcBELULMZ4YWnt7lclYqifRfRBGPWsiOIVEwHbFR8Ww7KO06qe&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbrs5-1.fna&_nc_gid=cdzTxojIbFWvNeVxN94ijA&_nc_ss=7a32e&oh=00_Af1XcqyjZlN3-5Pmy1FIoFyTTTx01z9I98cv8TLvH_nT-g&oe=69E4A9F3
 Contact: Bob Bakker <oxyaena47@aol.com>
 License: XXX SV-POW!
+Photo: 04.10.jpeg
+Contact: Ben Miller <bhmllr@gmail.com> 
+License: CC By
 
 Field Museum, Chicago IL
 Mamenchisaurus (subadult)
