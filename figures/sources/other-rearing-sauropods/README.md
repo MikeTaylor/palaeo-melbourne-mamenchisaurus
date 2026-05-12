@@ -31,6 +31,9 @@ Taxon: Galeamopus
 Photo: 04.10.jpeg
 Contact: Ben Miller <bhmllr@gmail.com> 
 License: CC By
+Photo: 20160407_111827.jpg
+Contact: Andrew Farke <andrew.farke@gmail.com> 
+License: CC By
 
 Field Museum, Chicago IL
 Mamenchisaurus (subadult)
