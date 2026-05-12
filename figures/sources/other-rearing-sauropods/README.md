@@ -74,7 +74,7 @@ Institution: Traveling exhibit
 Taxon: Jobaria tigiduensis
 Photo: Jobaria_in_the_Australian_Museum.jpg
 Source: https://commons.wikimedia.org/wiki/File:Jobaria_in_the_Australian_Museum.jpg
-License: XXX CC By-SA SV-POW!
+License: XXX CC By-SA, comment left requesting CC By
 Contact: Paul Sereno <dinosaur@uchicago.edu>
 
 Institution: Wollaton Hall, Nottingham, UK
