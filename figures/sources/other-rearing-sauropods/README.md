@@ -94,7 +94,7 @@ Taxon: diplodocine
 Photo: 28d2b9790cfa44b1a4efccdff8b004b7.jpg
 Source: https://museums.eu/exhibition/details/3433/main-hall-of-dinosaur-skeletons
 Contact: Kirby Siber <dino@sauriermuseum.ch>
-License: XXX TBC by email
+License: CC By, confirmed by email
 
 Institution: Children’s Museum Indianapolis
 Taxon: Diplodocus
