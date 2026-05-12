@@ -72,9 +72,9 @@ License: CC By, by agreement
 Institution: Traveling exhibit
 Taxon: Jobaria tigiduensis
 Photo: Jobaria_in_the_Australian_Museum.jpg
-Source: https://commons.wikimedia.org/wiki/File:Jobaria_in_the_Australian_Museum.jpg
-License: XXX CC By-SA, comment left requesting CC By
-Contact: Paul Sereno <dinosaur@uchicago.edu>
+Source: https://www.flickr.com/photos/camperdown/54104925146/
+License: CC By, by permission of photographer
+Contact: Hugh Llewelyn
 
 Institution: Wollaton Hall, Nottingham, UK
 Taxon: Mamenchisaurus hochuanensis
@@ -111,8 +111,8 @@ Institution: University of Zurich palaeontological Museum, Switzerland
 Taxon: diplodocine (juvenile)
 Photo: yjgqu4r9rdpc1.png
 Source: https://www.reddit.com/r/Dinosaurs/comments/1bizwjw/reconstruction_of_a_yearling_diplodocus_at_the/
-Contact: XXX no-one -- use SV-POW!
-License: XXX
+Contact: Tom van der Linden <tppaleo@gmail.com> 
+License: XXX to follow
 
 Institution: Lee Kong Chian Natural History Museum, Singapore
 Taxon: Diplodocidae incertae sedis
