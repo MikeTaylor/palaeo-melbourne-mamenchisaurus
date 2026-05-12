@@ -15,9 +15,9 @@ Contact: Scott Hartman <skeletaldrawing@gmail.com>
 
 Institution: Smithsonian NMNH, Washington DC
 Taxon: Camarasaurus (subadult)
-Photo: f3b5977678fb1a73.jpg
-Contact: Matt Carrano <CARRANOM@si.edu>
-License: XXX SV-POW!
+Photo: wedel-cam
+Contact: Matt Wedel <mathew.wedel@gmail.com>
+License: CC By, by agreement (pending email)
 
 Institution: Naturalis Biodiversity Center (Leiden, the Netherlands)
 Taxon: Camarasaurus
@@ -48,7 +48,7 @@ Taxon: Epachthosaurus sciuttoi
 Photo: bjqaynpcqaixaed.jpg
 Source: https://svpow.com/2014/03/26/rearing-titanosaurs-of-the-egidio-feruglio-museum/
 Contact: John Hutchinson <JHutchinson@rvc.ac.uk>
-License: XXX TBC from email to John
+License: CC By, by agreement
 
 Institution: Melbourne Museum, Melbourne, Australia
 Taxon: Amargasaurus cazaui
