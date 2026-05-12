@@ -17,7 +17,7 @@ Institution: Smithsonian NMNH, Washington DC
 Taxon: Camarasaurus (subadult)
 Photo: wedel-cam
 Contact: Matt Wedel <mathew.wedel@gmail.com>
-License: CC By, by agreement (pending email)
+License: CC By
 
 Institution: Naturalis Biodiversity Center (Leiden, the Netherlands)
 Taxon: Camarasaurus
