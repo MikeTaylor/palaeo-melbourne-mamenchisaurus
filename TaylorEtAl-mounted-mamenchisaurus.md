@@ -134,6 +134,12 @@ What you quote from The Artist and the Scientists was written by Peter Trusler. 
 ... but I was quoting Trusler et al. (2010:66-67), which is definitely one of Tom's sections: two paragraphs before, he refers to Peter in the third person.
 
 
+### 1989 exhibition
+
+> "Supplementing the exhibition will be skeletal dinosaur specimens from the museum's own collections. _Mamenchisaurus_, a 22 metre long relative of Brontosaurus, will be exhibited reared up on its hind limbs as though browsing in the top branches of a tree. Although artists previously have depicted groups of dinosaurs feeding in this manner, no museum has ever mounted a skeleton in this pose."  
+> -- [Dinosaurs Alive! flyer](refs/MoV1989-dinosaurs-alive-flyer.pdf)
+
+
 ### Cardiff exhibition
 
 See email thread "Chinese Dinosaurs exhibition" with Adam Smith.

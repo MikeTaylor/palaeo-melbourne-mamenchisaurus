@@ -27,6 +27,10 @@ Australian Museum Trust. 1983. Annual Report,
 AIM (Auckland Institite and Musuem). 1988. Annual Report 1987-88. 84 pages.
 	AIM-1988-annual-report-1987-88.pdf
 
+Museum of Victoria. 1989. Dinosaurs Alive! Robotic Dinosaurs form the
+National Science and Technology Centre, Canberra. Advertising flyer.
+	MoV1989-dinosaurs-alive-flyer.pdf
+
 Clarke, Jane. 1989. Dinosaurs come in from the cold. Sunday Herald
 (Supplement), 15 October 1989, pages 10-15.
 	Clarke-1989-Sunday-Herald--1989-10-15--p15.pdf
