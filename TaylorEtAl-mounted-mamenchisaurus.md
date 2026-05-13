@@ -148,6 +148,11 @@ See photo tumblr_pmgflthAV81unef6uo1_1280.jpg
 See email thread "Chinese Dinosaurs exhibition" with Adam Smith.
 
 
+### Misc
+
+As early as 1990 — the year after the Melbourne exhibit — people were writing sentences like "According to some specialists, the heavy animal was even able to stand up on its hind legs, and thus to browse at even greater heights" (Saunders 1990:17)
+
+
 ## Figures
 
 * Quarry map and photo of _Mamenchisaurus hochuanensis_.
