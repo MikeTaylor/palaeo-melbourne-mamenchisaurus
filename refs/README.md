@@ -1,3 +1,9 @@
+The following references are given in chronological, not date, order.
+See also the form specifying document numbers for some of these:
+	Form - Supply of material for Research or Study - Mike Taylor - 13 May 2026.pdf
+
+--
+
 Council of the National Museum of Victoria (eds.). 1982. Dinosaurs
 From China catalogue.
 	CouncilOfNMOV29182-dinosaurs-from-china-catalogue.pdf
