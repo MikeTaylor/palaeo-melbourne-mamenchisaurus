@@ -6,6 +6,10 @@ Warren, J. W. 1982. Foreword. p. 5 in: Council of the National Museum of
 Victoria (eds.), Dinosaurs From China catalogue.
 	Warren-Undated--Dinosaurs-from-China-catalogue-forword.jpeg
 
+Chomiak, George. 1982. All-staff memorandum: Dinosaur Exhibition, with
+attached pro forma questionnaire. 17 December 1982.
+	Chomiak1982-dinosaur-exhibition-evaluation-memo.pdf
+
 Anonymous. 1983. Skeletons of dinosaurs copied in Melbourne. The
 Canberra Times, 27 January 1983, page 16.
 https://trove.nla.gov.au/newspaper/article/116445974
