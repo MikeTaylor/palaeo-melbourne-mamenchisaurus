@@ -159,6 +159,8 @@ See email thread "Chinese Dinosaurs exhibition" with Adam Smith.
 * _Mamenchisaurus hochuanensis_ on tour in Launceston, Tasmania in 1988.
 * The bipedally mounted _Mamenchisaurus hochuanensis__ in 1989.
 * The Copenhagen _Mamenchisaurus hochuanensis_ in 2004.
+* Modern _Mamenchisaurus hochuanensis_ skeletal reconstructon.
+* Modern _Mamenchisaurus hochuanensis_ life reconstructon.
 * Montages of other rearing sauropod mounts. See [folder full of these](figures/sources/other-rearing-sauropods/)
 
 
