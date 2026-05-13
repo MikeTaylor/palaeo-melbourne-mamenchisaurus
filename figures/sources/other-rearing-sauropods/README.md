@@ -80,9 +80,11 @@ Institution: Wollaton Hall, Nottingham, UK
 Taxon: Mamenchisaurus hochuanensis
 Photo: _H0I2393.jpg
 Contact: Adam Smith <plesiosauria@gmail.com>
-License: XXX unknown, email to Adam
+License: XXX probably ARR, see email thread "Wollaton Mamenchisaurus mount"
 Photo: m-hoch-from-below-at-wollaton-hall-2017.jpg
 Source: https://svpow.com/2018/03/14/the-mounted-mamenchisaurus-at-wollaton-hall/
+License: CC By
+Photo: ../matt-wedel/wollaton-hall/
 License: CC By
 
 Institution: Natural History Museum Abu Dhabi, UAE
