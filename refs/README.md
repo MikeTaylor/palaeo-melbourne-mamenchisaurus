@@ -37,7 +37,7 @@ Australian Museum Trust. 1983. Annual Report,
 AIM (Auckland Institite and Musuem). 1988. Annual Report 1987-88. 84 pages.
 	AIM-1988-annual-report-1987-88.pdf
 
-QVMAG (Queen Victoria Museum and Art Gallery). 1988. Annual report. XXX details.
+QVMAG (Queen Victoria Museum and Art Gallery). 1988. Annual report. Unpaginated.
 	QVMAG-1988-annual-report.pdf QVMAG-1988-annual-report--selected-pages.pdf
 
 Museum of Victoria. 1989. Dinosaurs Alive! Robotic Dinosaurs form the
