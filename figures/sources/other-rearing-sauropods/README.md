@@ -123,6 +123,14 @@ Source: https://commons.wikimedia.org/wiki/File:Diplodocid_sauropod_skeletons,_L
 Contact: Jack at Wikipedia <jack.at.wikipedia@gmail.com>
 License: CC By, by permission
 
+Institution: Centro de Pesquisas Paleontológicas Llewellyn Ivor Price (CPPLIP) at Universidade Federal do Triângulo Mineiro (UFTM), Peiropolis, Uberaba, Minas Gerais, Brazil
+Taxon: Uberabatitan
+Source: https://www.flickr.com/photos/enavesjun/6601777879
+Photo: 6601777879_9e6370f98c_h.jpg
+License: All rights reserved
+Contact: Euclides Naves
+Source: (curator)
+Contact: Thiago Da Silva Marinho <thiago.marinho@uftm.edu.br>
 
 ---
 
