@@ -136,7 +136,8 @@ Institution: Oertijdmuseum, Boxtel, Netherlands
 Taxon: Diplodocine
 Photo: Diplodocus skelet Maand van de Geschiedenis 2018 2.jpg
 Source: email from Tom van der Linden
-License: XXX TBC
+Credit: René H.B. Fraaije, Het Nationaal Oertijdmuseum, NL.
+License: CC By, by permission
 Contact: Tom van der Linden <tppaleo@gmail.com> 
 
 ---
