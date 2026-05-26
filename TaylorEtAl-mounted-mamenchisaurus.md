@@ -158,6 +158,8 @@ See email thread "Chinese Dinosaurs exhibition" with Adam Smith.
 
 As early as 1990 — the year after the Melbourne exhibit — people were writing sentences like "According to some specialists, the heavy animal was even able to stand up on its hind legs, and thus to browse at even greater heights" (Saunders 1990:17)
 
+XXX Cite all newspaper reports in `refs/The_Age_*`.
+
 
 ## Figures
 

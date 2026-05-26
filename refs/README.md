@@ -4,6 +4,15 @@ See also the form specifying document numbers for some of these:
 
 --
 
+Roberts, Peter. 1981. China sends a sample of an ancient dynasty. The Age, 13 October 1981, page 5.
+	The_Age_1981_10_13_Page_5.pdf
+
+Cooke, Karen. 1982. Introducing, from China, the duck-billed dinosaur. The Age, 12 March 1982, page 1.
+	The_Age_1982_03_12_Page_1.pdf
+
+Lahey, John. Dinosaur skeletons bound to be a hit. The Age, 20 October 1982, page 3.
+	The_Age_1982_10_20_Page_3.pdf
+
 Council of the National Museum of Victoria (eds.). 1982. Dinosaurs
 From China catalogue.
 	CouncilOfNMOV29182-dinosaurs-from-china-catalogue.pdf
@@ -12,9 +21,18 @@ Warren, J. W. 1982. Foreword. p. 5 in: Council of the National Museum of
 Victoria (eds.), Dinosaurs From China catalogue.
 	Warren-Undated--Dinosaurs-from-China-catalogue-forword.jpeg
 
+NMV (National Museum of Victoria). 1982. Dinosaurs from China (advertisement). The Age, 26 November 1982, page 9.
+	The_Age_1982_11_26_Page_9.pdf
+
+NMV (National Museum of Victoria). 1982. Dinosaurs from China (advertisement). The Age, 3 December 1982, page 9.
+	The_Age_1982_12_03_Page_9.pdf
+
 Chomiak, George. 1982. All-staff memorandum: Dinosaur Exhibition, with
 attached pro forma questionnaire. 17 December 1982.
 	Chomiak1982-dinosaur-exhibition-evaluation-memo.pdf
+
+NMV (National Museum of Victoria). 1983. Dinosaurs from China (advertisement). The Age, 7 January 1983, page 12.
+	The_Age_1983_01_07_Page_12.pdf
 
 Anonymous. 1983. Skeletons of dinosaurs copied in Melbourne. The
 Canberra Times, 27 January 1983, page 16.
@@ -33,6 +51,9 @@ Journal of the N.S.W. Public School Teachers Federation
 Australian Museum Trust. 1983. Annual Report,
 1982/83. https://media.australian.museum/media/dd/Uploads/Documents/26916/AMS112_1982-1983_lowres_web.17a47fc.pdf
 	Australian-Museum-Trust-1983--annual-report-1982-83.pdf
+
+Kizilos, Kathy. 1985. Streets paved with green? The Age, 8 Febriary 1985, pages 11-14.
+	The_Age_1985_02_08_Pages_11-14.pdf
 
 AIM (Auckland Institite and Musuem). 1988. Annual Report 1987-88. 84 pages.
 	AIM-1988-annual-report-1987-88.pdf
