@@ -160,6 +160,10 @@ As early as 1990 — the year after the Melbourne exhibit — people were writin
 
 XXX Cite all newspaper reports in `refs/The_Age_*`.
 
+XXX Quinn 1987 says Melbourne staff nicknamed the _Mamenchisaurus_ "Fred". Other sources (XXX check) say it and _Tsintaosaurus_ were known as Dina and Dino.
+
+XXX Quinn 1987 says Ultrasaurus was included in the Firth Dinosaurs exhibition, and the map in the catalogue confirms this. Was it from Melbourne?
+
 
 ## Figures
 
