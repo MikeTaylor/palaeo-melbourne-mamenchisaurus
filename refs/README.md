@@ -55,6 +55,10 @@ Australian Museum Trust. 1983. Annual Report,
 Kizilos, Kathy. 1985. Streets paved with green? The Age, 8 Febriary 1985, pages 11-14.
 	The_Age_1985_02_08_Pages_11-14.pdf
 
+Quinn, John. 1987. Giant dinosaur star attraction at Auckland exhibition. Press (Canterbury, New Zealand), 21 November 1987, Page 24.
+	Quinn1987-giant-dinosaur-star-attraction-at-auckland-exhibition.pdf
+	https://paperspast.natlib.govt.nz/newspapers/CHP19871121.2.103.5
+
 AIM (Auckland Institite and Musuem). 1988. Annual Report 1987-88. 84 pages.
 	AIM-1988-annual-report-1987-88.pdf
 
