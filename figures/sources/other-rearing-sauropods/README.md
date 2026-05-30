@@ -43,8 +43,15 @@ Contact: Bill Simpson <simpson@fieldmuseum.org>
 License: CC By
 
 Institution: Museu Egidio Feruglio, Trelew, Argentina.
-Taxon: Epachthosaurus sciuttoi
+Taxon: Epachthosaurus sciuttoi (Diego Pol, pers. comm.)
 Photo: bjqaynpcqaixaed.jpg
+Source: https://svpow.com/2014/03/26/rearing-titanosaurs-of-the-egidio-feruglio-museum/
+Contact: John Hutchinson <JHutchinson@rvc.ac.uk>
+License: CC By, by agreement
+
+Institution: Museu Egidio Feruglio, Trelew, Argentina.
+Taxon: Neuquensaurus (at the front: Diego Pol, pers. comm.)
+Photo: bjqghuocqaeri1e.jpg
 Source: https://svpow.com/2014/03/26/rearing-titanosaurs-of-the-egidio-feruglio-museum/
 Contact: John Hutchinson <JHutchinson@rvc.ac.uk>
 License: CC By, by agreement
