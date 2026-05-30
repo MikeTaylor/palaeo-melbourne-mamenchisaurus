@@ -48,6 +48,18 @@ Australian Museum Trust. 1983. Annual Report, 1982/83. https://media.australian.
 Kizilos, Kathy. 1985. Streets paved with green? The Age, 8 Febriary 1985, pages 11-14.
 	The_Age_1985_02_08_Pages_11-14.pdf
 
+Anonymous. 1987 a. Mamenchisaurus. Entry in educational material.
+	Auckland-educational-material.pdf
+
+Anonymous. 1987 b. Exhibition plan (with key) for Firth's Dinosaurs.
+	Auckland-exhibition-plan.pdf
+
+Anonymous. 1987 c. Mamenchisaurus hochuanensis. Entry in catalogue or encyclopaedia.
+	Auckland-catalogue-entry-maybe.pdf
+
+Anonymous. 1987 d. Dinosaur Display at Auckland Museum (Press release).
+	Auckland-press-release.pdf
+
 Wolfe, Richard. 1987. The Firth Dinosaurs: New Zealand's first exhibition exploring dinosaurs and their relatives (exhbition catalogue). Auckland Museum, Auckland, New Zealand. ISBN 0-908623-29-1.
 	AucklandMuseum_TheFirthDinosaurs_1987--PARTIAL.pdf
 
@@ -85,4 +97,12 @@ https://web.archive.org/web/20260423055246/https://www.foreground.com.au/parks-p
 
 Rich, Thomas H., and Patricia Vickers-Rich. 2020. Dinosaurs of Darkness (second edition). Indiana University Press, Bloomington, Indiana, USA. 310 pages.
 	Rich-Vickers-Rich-2020--Dinosaurs-of-Darkness-2nd-Ed.pdf
+
+--
+
+Note: the following files cames concatenated as "FirthDinosaurs_Mamenchisaurus.pdf":
+	Auckland-educational-material.pdf
+	Auckland-exhibition-plan.pdf
+	Auckland-catalogue-entry-maybe.pdf
+	Auckland-press-release.pdf
 
