@@ -48,6 +48,9 @@ Australian Museum Trust. 1983. Annual Report, 1982/83. https://media.australian.
 Kizilos, Kathy. 1985. Streets paved with green? The Age, 8 Febriary 1985, pages 11-14.
 	The_Age_1985_02_08_Pages_11-14.pdf
 
+Wolfe, Richard. 1987. The Firth Dinosaurs: New Zealand's first exhibition exploring dinosaurs and their relatives (exhbition catalogue). Auckland Museum, Auckland, New Zealand. ISBN 0-908623-29-1.
+	AucklandMuseum_TheFirthDinosaurs_1987--PARTIAL.pdf
+
 Quinn, John. 1987. Giant dinosaur star attraction at Auckland exhibition. Press (Canterbury, New Zealand), 21 November 1987, Page 24.
 	Quinn1987-giant-dinosaur-star-attraction-at-auckland-exhibition.pdf
 	https://paperspast.natlib.govt.nz/newspapers/CHP19871121.2.103.5
