@@ -10,6 +10,9 @@ Roberts, Peter. 1981. China sends a sample of an ancient dynasty. The Age, 13 Oc
 Cooke, Karen. 1982. Introducing, from China, the duck-billed dinosaur. The Age, 12 March 1982, page 1.
 	The_Age_1982_03_12_Page_1.pdf
 
+McLellan, Eric, Ron Miller, Kerrie Aulsebrook, Helen Edmonds, Rosemary Taylor, Pat Rich, Tom Rich, Alec Ritchie, Mike Traynor and Brian Smith. 1982. Dinosaurs from China: including catalogue to the exhibition in the National Museum of Victoria and The Australian Museum, Sydney. Council of the National Museum of Victoria, Melbourne. ISBN 0724146253.
+	McLellanEtAl1982-Dinosaurs-from-China-catalogue.pdf
+
 Lahey, John. Dinosaur skeletons bound to be a hit. The Age, 20 October 1982, page 3.
 	The_Age_1982_10_20_Page_3.pdf
 
