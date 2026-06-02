@@ -63,7 +63,7 @@ Anonymous. 1987 c. Mamenchisaurus hochuanensis. Entry in catalogue or encyclopae
 Anonymous. 1987 d. Dinosaur Display at Auckland Museum (Press release).
 	Auckland-press-release.pdf
 
-Wolfe, Richard. 1987. The Firth Dinosaurs: New Zealand's first exhibition exploring dinosaurs and their relatives (exhbition catalogue). Auckland Museum, Auckland, New Zealand. ISBN 0-908623-29-1.
+Wolfe, Richard. 1987. The Firth Dinosaurs: New Zealand's first exhibition exploring dinosaurs and their relatives (exhbition catalogue). Auckland Museum, Auckland, New Zealand. ISBN 0-908623-29-1. Pages 1, 2, 4, 18 (Mamenchisaurus) and 19 (Ultrasaurus).
 	AucklandMuseum_TheFirthDinosaurs_1987--PARTIAL.pdf
 
 Quinn, John. 1987. Giant dinosaur star attraction at Auckland exhibition. Press (Canterbury, New Zealand), 21 November 1987, Page 24.
